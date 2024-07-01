@@ -29,6 +29,9 @@
 ## My projects
 **QA GURU**
 
+**UI Tests for VoiceOver Designer**
+https://github.com/VODGroup/VoiceOverDesigner
+
 ## Stats
 ![Vit's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitPerov88&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
 
