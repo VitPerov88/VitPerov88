@@ -3,7 +3,13 @@
 
 ## About Me
 - Junior QA engineer, manual testing of web applications and API testing (Postman).
-- I'm currently developing my automation skills on stack **Selenide with JUnit + Java** and **Swift**
+- I'm currently developing my automation skills on stack **Selenide with JUnit + Java** and **Swift + XCTest**
+
+## My projects
+**UI Tests for VoiceOver Designer**
+https://github.com/VODGroup/VoiceOverDesigner
+
+**QA GURU** Study projects
 
 ## Languages
 <a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </a> 
@@ -25,12 +31,6 @@
 <a href="https://allurereport.org/"> <img src="icons/allure_report.svg" title="Allure report" alt="Allure report" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> </a>
 <a href="https://www.postman.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/> </a>
-
-## My projects
-**QA GURU**
-
-**UI Tests for VoiceOver Designer**
-https://github.com/VODGroup/VoiceOverDesigner
 
 ## Stats
 ![Vit's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitPerov88&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
