@@ -6,10 +6,10 @@
 - I'm currently developing my automation skills on stack **Selenide with JUnit + Java** and **Swift + XCTest**
 
 ## My projects
-**UI Tests for VoiceOver Designer**
+**Swift UI Tests for VoiceOver Designer**
 https://github.com/VODGroup/VoiceOverDesigner
 
-**QA GURU** Study projects
+**Java QA GURU** Study projects
 
 ## Languages
 <a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </a> 
