@@ -7,9 +7,9 @@
 
 ## My projects
 **Swift UI Tests for VoiceOver Designer**
-https://github.com/VODGroup/VoiceOverDesigner
+- https://github.com/VODGroup/VoiceOverDesigner
 
-**Java QA GURU** Study projects**
+**Java QA GURU** Study projects
 - UI tests: https://github.com/VitPerov88/HW_Perov_PageObjects
 - API tests: https://github.com/VitPerov88/HW_Perov_API
 
