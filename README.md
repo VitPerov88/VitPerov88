@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitalii! 👋</h1> 
-<h3 align="center">Junior Fullstack QA Engineer</h1> 
+<h3 align="center">Junior QA manual + automation Java/Swift</h1> 
 
 ## About Me
 - Junior QA engineer, manual testing of web applications and API testing (Postman).
@@ -9,7 +9,9 @@
 **Swift UI Tests for VoiceOver Designer**
 https://github.com/VODGroup/VoiceOverDesigner
 
-**Java QA GURU** Study projects
+**Java QA GURU** Study projects**
+UI tests: https://github.com/VitPerov88/HW_Perov_PageObjects
+API tests: https://github.com/VitPerov88/HW_Perov_API
 
 ## Languages
 <a href="https://www.java.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </a> 
